@@ -1,0 +1,13 @@
+{
+    "Name": "tutorial",
+    "Width": 20,
+    "Height": 20,
+    "ChunkDimensions": {
+        "x": 10,
+        "y": 10
+    },
+    "Layers": [],
+    "Views": [],
+    "Regions": [],
+    "GameEventBuilders": []
+}
